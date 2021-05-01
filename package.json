@@ -1,0 +1,26 @@
+{
+  "name": "GetMonta",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "@nuxtjs/axios": "^5.13.1",
+    "core-js": "^3.9.1",
+    "mathjax": "^3.1.4",
+    "mathjax-full": "^3.1.4",
+    "nuxt": "^2.15.3",
+    "turndown": "^7.0.0",
+    "vue-mathjax": "^0.0.11"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.1"
+  }
+}
